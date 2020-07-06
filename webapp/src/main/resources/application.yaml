@@ -1,0 +1,6 @@
+##########################################################
+# application.yaml   (used for development purposes)
+##########################################################
+name: app3
+server.servlet.context-path: /app3
+server.port: 8080
